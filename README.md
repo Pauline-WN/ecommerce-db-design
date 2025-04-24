@@ -19,8 +19,6 @@ This challenge enhances our skills in **database design**, **ER modeling**, **SQ
 
 ## 🧠 Entity-Relationship Diagram (ERD)
 
-Below is a visual representation of the database structure.  
-📷 *(Insert your ERD screenshot here – recommended: `/erd/ecommerce-erd.png`)*
 
 Entities include:
 - `product`
